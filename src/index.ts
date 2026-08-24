@@ -27,3 +27,5 @@ app.listen(config.port, () => {
 });
 
 // Refatorado para melhor legibilidade
+
+// Ajustes de performance no roteamento
