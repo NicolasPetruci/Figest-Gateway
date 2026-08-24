@@ -25,3 +25,5 @@ app.use('/api', apiRoutes);
 app.listen(config.port, () => {
   logger.info(`Gateway running on port ${config.port}`);
 });
+
+// Refatorado para melhor legibilidade
